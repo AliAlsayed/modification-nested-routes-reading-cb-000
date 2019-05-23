@@ -3826,3 +3826,4 @@ Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb
 Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 92.98.236.131 at 2019-05-23 16:48:08 +0000
 Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 92.98.236.131 at 2019-05-23 16:48:08 +0000
 Started GET "/assets/authors.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 92.98.236.131 at 2019-05-23 16:48:08 +0000
+Started GET "/assets/turbolinks.self-569ee74eaa15c1e2019317ff770b8769b1ec033a0f572a485f64c82ddc8f989e.js?body=1" for 92.98.236.131 at 2019-05-23 16:48:19 +0000
